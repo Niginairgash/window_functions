@@ -8,6 +8,6 @@
 
 * <a href="https://github.com/Niginairgash/window_functions/blob/main/products_ddl.sql">products</a> : содержит информацию о товарах и их актуальных ценах.
 
-* <a href="https://github.com/Niginairgash/window_functions/blob/main/sales_ddl.sql">products</a>: фиксирует факт продажи, количество товаров и цену на момент продажи.
+* <a href="https://github.com/Niginairgash/window_functions/blob/main/sales_ddl.sql">sales</a>: фиксирует факт продажи, количество товаров и цену на момент продажи.
 
 <a href="https://github.com/Niginairgash/window_functions/blob/main/sales.sql">Пример запроса для расчёта накопительных продаж и процентных изменений </a>
